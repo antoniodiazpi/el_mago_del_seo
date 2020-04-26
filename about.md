@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: Sobre mi
 permalink: /about/
----
 
-A simple and elegant theme for Jekyll and GitHub Pages.
+---
+Soy un SEO con inquietud por todo lo que pasa en internet.
 
 ### Features:
 * Mobile-first design ensures this theme performs fastest on mobile while scaling elegantly to desktop-size screens.
